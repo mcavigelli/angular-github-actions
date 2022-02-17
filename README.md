@@ -36,7 +36,7 @@ config.set({
 });
 ```
 
-Also adapt Instanbul Reporter path to directory `./converage`, if neccessary!
+Also adapt Instanbul Reporter path to directory `./coverage`, if neccessary!
 
 ```js
 coverageIstanbulReporter: {
